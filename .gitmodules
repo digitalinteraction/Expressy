@@ -1,0 +1,3 @@
+[submodule "ExpressiveTouch"]
+	path = ExpressiveTouch
+	url = https://github.com/GerryWilko/ExpressiveTouch
